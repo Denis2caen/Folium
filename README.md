@@ -1,2 +1,2 @@
 # Folium
-module folium de python
+Jupyter notebook pour présenter la prise en main du module folium de python
